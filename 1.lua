@@ -5522,7 +5522,7 @@ function _G.InitModMenuTab()
         LocUtil = require("client.common.LocUtil")
     end
     local FakeTextMap = {
-        [999000] = " VIP MENU",
+        [999000] = "Premium VIP MENU",
         [999001] = "Visuals & ESP",
         [999005] = "Vehicle & Loot",
         [999002] = "Combat & Aim",
